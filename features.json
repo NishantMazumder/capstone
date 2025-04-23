@@ -1,0 +1,15 @@
+[
+    "Flow Duration",
+    "Total Fwd Packets",
+    "Total Backward Packets",
+    "Fwd Packets Length Total",
+    "Bwd Packets Length Total",
+    "Flow Bytes/s",
+    "Flow Packets/s",
+    "Packet Length Min",
+    "Packet Length Max",
+    "Packet Length Mean",
+    "Packet Length Std",
+    "Subflow Fwd Bytes",
+    "Subflow Bwd Bytes"
+]
